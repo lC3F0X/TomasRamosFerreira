@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👨‍💻 What's my job: Full Stack Developer Angular.js (drontend), ASP Net (backend API), and MSSQL (Database).
+- 👨‍💻 What's my job: Full Stack Developer Angular.js (frontend), ASP Net (backend API), and MSSQL (Database).
 - 👨‍🎓 Studies: I'm taking a Cybersecurity master degree at Polytecnic Institute of Beja, and I have a degree in Computer Engineering.
 - 👨‍🏭 Work: Always looking for new oportunities, and experiences;
 - 📫 How to reach me: Preference by <a href="mailto:tomasrferreira2@gmail.com">email</a> or <a href="https://www.linkedin.com/in/tomasferreira-01/">linkedin</a>.
